@@ -15,6 +15,6 @@ Incluye animaciones de flores que se mecen con el viento, corazones flotando y u
 
 ---
 
-Creado por Levanxx
+Creado por Tuna
 .
 Si te gustó, deja una ⭐ en el repo y comparte el jardín 🌷✨
