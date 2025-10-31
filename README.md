@@ -5,19 +5,19 @@ Cada flor se mece con el viento, los corazones flotan suavemente... y de fondo s
 
 Características
 ---
-🌼 Tulipanes animados: un jardín que cobra vida con movimiento natural.
+ Tulipanes animados: un jardín que cobra vida con movimiento natural.
 
-💛 Interacción mágica: cada tulipán revela un mensaje oculto al presionarlo.
+ Interacción mágica: cada tulipán revela un mensaje oculto al presionarlo.
 
-💫 Botón de corazones: lanza corazones flotantes que acompañan la escena.
+ Botón de corazones: lanza corazones flotantes que acompañan la escena.
 
-🎶 Música ambiental: “Those Eyes” suena en el fondo para completar la experiencia.
+ Música ambiental: “Those Eyes” suena en el fondo para completar la experiencia.
 
-📱 Diseño responsive: adaptable a móvil, tablet y escritorio.
+ Diseño responsive: adaptable a móvil, tablet y escritorio.
 
-🎨 Estética cuidada: gradientes suaves, transparencias y tipografía de Google Fonts.
+ Estética cuidada: gradientes suaves, transparencias y tipografía de Google Fonts.
 
-👩‍💻 Código 100% vanilla: sin frameworks, solo HTML, CSS y JavaScript puro.
+ Código 100% vanilla: sin frameworks, solo HTML, CSS y JavaScript puro.
 
 Experiencia
 ---
